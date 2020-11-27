@@ -16,3 +16,8 @@ Different kind of feedback loops, or "same content, differnt names"?
 * [Closed loop controller](https://en.wikipedia.org/wiki/Closed-loop_controller)
 
 For me it is fun. As soon as you leave the area of [natural science](https://en.wikipedia.org/wiki/Natural_science), terms get blurry and fuzzy. The same simple thing was invented by twenty people and has twenty different names.
+
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
